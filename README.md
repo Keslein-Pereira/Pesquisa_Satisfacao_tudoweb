@@ -1,12 +1,12 @@
-# Pesquisa de Satisfação - TudoWeb
+# 📊 Pesquisa de Satisfação - TudoWeb
 
-## Sobre o projeto
+## 📋 Sobre o projeto
 
 Este projeto foi desenvolvido em Python para realizar uma pesquisa de satisfação com os clientes da empresa TudoWeb.
 
 O programa coleta o nome, a idade e a opinião do entrevistado sobre o atendimento prestado.
 
-## Opções de atendimento
+## ⭐ Opções de atendimento
 
 O entrevistado pode escolher uma das seguintes opções:
 
@@ -16,14 +16,14 @@ O entrevistado pode escolher uma das seguintes opções:
 
 O programa utiliza uma estrutura de repetição para realizar a pesquisa com os entrevistados e estruturas de decisão para verificar a opinião escolhida.
 
-## Resultado
+## 📈 Resultado
 
 Ao final da pesquisa, o programa apresenta:
 
 - Quantidade de respostas **EXCELENTE**
 - Quantidade de respostas **RUIM**
 
-## Como executar
+## ▶️ Como executar
 
 1. Tenha o Python instalado no computador.
 2. Abra o projeto no Visual Studio Code.
@@ -31,9 +31,17 @@ Ao final da pesquisa, o programa apresenta:
 4. Execute o programa.
 5. Digite os dados solicitados no terminal.
 
-## Teste
+## 🧪 Teste
 
 Para validar o funcionamento do programa, foram realizados testes com **10 entrevistados**.
 
 Após os testes, a versão final do programa foi configurada para realizar a pesquisa com **50 entrevistados**, conforme solicitado na atividade.
+
+
+
+ ## 💻Tecnologias usadas
+ 
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-1F1F1F?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
